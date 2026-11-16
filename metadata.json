@@ -1,0 +1,8 @@
+{
+  "name": "IronWeld Workshop",
+  "description": "Welding and fabrication workshop management for income, expenses, inventory tracking, and client orders backed by Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
